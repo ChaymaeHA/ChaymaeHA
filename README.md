@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chaymae harmak" target="blank">
+<a href="https://www.linkedin.com/in/chaymae-harmak-374b0a344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://instagram.com/chaymae.harmak" target="blank">
+<a href="https://instagram.com/chaymaeharmak" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 </p>
