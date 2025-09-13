@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **YallahDrive**  
 
-- 🌱 I’m currently learning **Flutter, Kotlin, and Swift**  
-
-- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/chaymae-harmak-374b0a344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌱 I’m currently learning **Flutter, Kotlin**   
 
 - 💬 Ask me about **Mobile Development, Kotlin, Object-Oriented Programming, and UI/UX Design**  
 
