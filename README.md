@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaymae Harmak</h1>
 <h3 align="center">Flutter & Android Mobile Application Developer 🇲🇦</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaymaeharmak&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/chaymaeharmak?label=Followers&style=social" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -42,11 +37,3 @@ I specialize in **Flutter** and **Android (Kotlin)**, with a strong focus on **c
 
 ---
 
-
-## ☕ Support Me
-
-<p>
-  <a href="https://www.buymeacoffee.com/coooffeee" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-  </a>
-</p>
