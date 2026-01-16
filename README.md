@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaymae Harmak</h1>
-<h3 align="center">Flutter & Android Mobile Application Developer 🇲🇦</h3>
+<h3 align="center">Flutter & Android Mobile Application Developer </h3>
 
 ---
 
